@@ -210,6 +210,8 @@ special instructions.
     <li>The room is wheelchair / scooter accessible.</li>
     <li>Accessible restrooms are available.</li>
   </ul>
+</p>
+
 {% endif %}
 </p>
 <p>  We are dedicated to providing a positive and accessible learning environment for all.
